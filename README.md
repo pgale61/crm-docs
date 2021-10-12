@@ -10,7 +10,7 @@ Source is https://operators.mobiledgex.com/product-overview/cloudlet-onboarding/
   * Architecture and Options (Diagram(s) plus description of each deployment option)
   * Network and Resource Requirements and Recommendations
     * Clear tabular info for each item describing. What the item is and why it's needed. Minimum settings, Recommended settings etc
-  * Seecurity and Firewall Requirements
+  * Security and Firewall Requirements
     * List of Generic FW rules required
     * Details of IaaS permissions required by Tenant/ Service Account used by CRM
   * Flavor / Instance Type requirements
